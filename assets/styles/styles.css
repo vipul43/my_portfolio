@@ -3,7 +3,7 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #E3E3E3;
+		background-color: darkslateblue;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** thin bar ***/
 
 .thin-bar {
-		border-bottom: 5px solid #F33F12;
+		border-bottom: 5px solid darkslateblue;
 }
 
 
@@ -111,16 +111,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cta .cta-button {
-		color: #cc4b37;
+		color: darkslateblue;
 		text-transform: uppercase;
-		border: 2px solid rgba(255, 103, 68, 0.91);
+		border: 2px solid darkslateblue;
 		border-radius: 50px;
 		background: white;
 }
 
 .cta .cta-button:hover, .cta .cta-button:focus {
 		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
-		background-color: rgba(255, 103, 68, 0.91);
+		background-color:darkslateblue;
 		color: white;
 }
 
@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 .fa {
 	font-size: 1.2em;
 	padding: 0.1em 0.4em;
-	color: #8a8a8a;
+	color: darkslateblue;
 }
 
 .fa:hover {
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Experience ***/
 #experience {
-	background-color: #4c6d86;
+	background-color: black;
 	padding: 6em 4em 5.6em;
 }
 
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #experience i {
-	color: rgb(255, 138, 89);
+	color: darkslateblue;
 	font-size: 4em;
 }
 
@@ -183,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #work h2 {
-	color: #FF6945;
+	color: darkslateblue;
 	margin-bottom: .7em;
 }
 
@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details h3 {
-	color: #738182;
+	color: darkslateblue;
 	text-transform: uppercase;
 }
 
@@ -209,11 +209,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 2em 0 -0.1em;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
-	color: #ff7654;
+	color: darkslateblue;
 }
 
 .details i {
-	color: #ff7654;
+	color: darkslateblue;
 	margin-right: 1em;
 }
 
@@ -226,14 +226,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details a, .details a:link, .details a:active{
-		color: rgba(255, 103, 68, 0.91);
-		border: 2px solid rgba(255, 103, 68, 0.91) !important;
+		color: darkslateblue;
+		border: 2px solid darkslateblue !important;
 		background-color: #fff;
 }
 
 .details a:hover, .details a:focus {
 		/*box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);*/
-		background-color: rgba(255, 103, 68, 0.91) !important;
+		background-color: darkslateblue !important;
 		color: #fff;
 }
 
@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #teaching h2 {
-	color: #595959;
+	color: black;
 }
 
 #teaching .tag-line {
@@ -279,7 +279,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Footer Call-to-action ***/
 #footer-cta {
-	background-color: rgba(255, 103, 68, 0.91);
+	background-color: darkslateblue;
 	padding: 6em 4em 5.6em;
 }
 
@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer-cta a:hover {
 	background: #fff;
-	color: rgba(255, 103, 68, 0.91);
+	color: darkslateblue;
 	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
 }
 
@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer #logo {
-	background-color: rgba(255, 103, 68, 0.91);
+	background-color: darkslateblue;
 	border-radius: 50%;
 	color: #fff;
 	padding: .4em;
