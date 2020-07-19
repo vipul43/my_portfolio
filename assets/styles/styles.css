@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Experience ***/
 #experience {
-	background-color: black;
+	background-color: lightslategray;
 	padding: 6em 4em 5.6em;
 }
 
@@ -176,10 +176,31 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 500;
 }
 
+/*** current-work ***/
+#current-work {
+	padding: 6em 4em 3em;
+	background-color: blanchedalmond;
+}
+
+#current-work h2 {
+	color: darkslateblue;
+	margin-bottom: .7em;
+}
+
+#current-work .tag-line {
+	color: #767779;
+	font-size: 1.4em;
+	margin-bottom: 4em;
+}
+
+#current-work .work-row {
+	margin-bottom: 5.5em;
+}
+
 /*** work ***/
 #work {
 	padding: 6em 4em 3em;
-	background-color: #fff;
+	background-color: lightgreen;
 }
 
 #work h2 {
